@@ -29,7 +29,7 @@
 
  [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ccreusat/)
  [![General badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/ccreusat)
- [![General badge](https://img.shields.io/badge/github-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github/clementcreusat)
+ [![General badge](https://img.shields.io/badge/github-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clementcreusat)
  
 ## 2022 Stats :
 [![Les Stats GitHub de Clement Creusat](https://github-readme-stats.vercel.app/api?username=ccreusat&show_icons=true)](https://github.com/ccreusat/github-readme-stats)
