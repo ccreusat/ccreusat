@@ -3,8 +3,9 @@
 ### Senior UI Frontend Developer at Open Digital Education
 
 ## 💻 Pro Stack
-- AngularJS
-- Angular 8
+- AngularJS (All apps)
+- Angular 14 (CRM & Dashboard App)
+- ReactJS (UI Monorepo)
 - SASS & Bootstrap CSS
 
 ## ▶️ Personal Projects made with :
