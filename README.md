@@ -23,12 +23,6 @@ Senior Frontend Engineer @ [Ornikar](https://www.ornikar.com/)
 
 ---
 
-### 📊 GitHub Stats
-
-![Clément's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccreusat&show_icons=true&theme=radical&hide_border=true)
-
----
-
 ### 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ccreusat/)
